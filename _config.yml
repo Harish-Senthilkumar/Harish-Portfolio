@@ -5,3 +5,4 @@ show_downloads: true
 theme: jekyll-theme-cayman
 includes:
   - assets/img/css/style.css
+class="site-logo"
