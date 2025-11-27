@@ -3,3 +3,5 @@ logo: assets/img/IMG_4011.jpg
 description: Data Scientist and AI/Machine Learning Engineer
 show_downloads: true
 theme: jekyll-theme-cayman
+includes:
+  - assets/img/css/style.css
